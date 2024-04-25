@@ -15,7 +15,7 @@
 
             // Add the submenu for Category Management
             add_submenu_page(
-                'adse-info', // Parent slug (main menu item)
+                'adse-info', 
                 'Manage Categories',
                 'Manage Categories',
                 'manage_options',
